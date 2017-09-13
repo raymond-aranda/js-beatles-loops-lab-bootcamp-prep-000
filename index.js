@@ -9,7 +9,6 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 function johnLennonFacts(facts) {
-
   var factsArr = []
 
   var i = 0
