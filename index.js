@@ -15,5 +15,8 @@ function johnLennonFacts(facts) {
   var i = 0
   while(i < facts.length) {
     factsArr.push(`${facts}!!!`)
+    i++
   }
+
+  return factsArr
 }
